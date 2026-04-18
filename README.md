@@ -4,6 +4,8 @@ btw is a remake of hafnium.exe by nofliefound
 
 also...
 
-Credits to: @malsteve1 for rotation help.
-Credits to: MalwareLab150 for MBR
+Credits to: malsteve for rotation help.
+
+Credits to: MalwareLab150 for MBR.
+
 Credits to: gabrodev for some payloads. (not gdi payloads)
